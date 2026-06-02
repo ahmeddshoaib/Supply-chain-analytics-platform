@@ -98,19 +98,19 @@ A 3-month moving average forecasting model was developed using historical demand
 
 ### Supplier Performance Analysis
 
-![Supplier Performance](data/visuals/supplier_performance.png)
+![Supplier Performance](data/notebooks/visuals/supplier_performance.png)
 
 ---
 
 ### ABC Inventory Analysis
 
-![ABC Analysis](data/visuals/abc_inventory_analysis.png)
+![ABC Analysis](data/notebooks/visuals/abc_inventory_analysis.png)
 
 ---
 
 ### Demand Forecasting
 
-![Demand Forecast](data/visuals/demand_forecast.png)
+![Demand Forecast](data/notebooks/visuals/demand_forecast.png)
 
 ---
 
