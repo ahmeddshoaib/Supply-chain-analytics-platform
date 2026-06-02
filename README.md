@@ -29,6 +29,21 @@ The project addresses three common supply chain challenges:
 
 ---
 
+## Skills Demonstrated
+
+- Supply Chain Analytics
+- Procurement Analytics
+- Inventory Optimisation
+- ABC Classification
+- Demand Forecasting
+- Supplier Performance Evaluation
+- Python
+- Pandas
+- Matplotlib
+- Git & GitHub
+
+---
+  
 ## Dataset Overview
 
 The project uses four datasets:
