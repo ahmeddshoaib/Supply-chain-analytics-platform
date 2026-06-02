@@ -129,6 +129,16 @@ A 3-month moving average forecasting model was developed using historical demand
 
 ---
 
+## Key Results
+
+- Evaluated 50 suppliers across delivery, quality and lead-time metrics.
+- Classified 500 inventory items using ABC analysis.
+- Identified 210 Class A items responsible for the majority of inventory value.
+- Developed a demand forecasting model using a 3-month moving average.
+- Visualised seasonal demand trends to support procurement planning.
+
+---
+
 ## Business Impact
 
 This project demonstrates how data analytics can support:
